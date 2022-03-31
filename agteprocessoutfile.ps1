@@ -1,0 +1,1 @@
+﻿Get-Process | Out-File "C:\Users\vadnala.sagar\process.txt"

@@ -1,0 +1,1 @@
+﻿Get-Alias | Out-File "C:\n  Users\vadnala.sagar\ALIAS.txt"
